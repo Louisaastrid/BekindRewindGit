@@ -7,9 +7,9 @@ namespace BeKindRewind
 {
     public class Category
     {
-        public int category_id { get; set; }
-        public string name { get; set; }
-        public DateTime last_update { get; set; }
+        public int CategoryId { get; set; }
+        public string Name { get; set; }
+        public DateTime LastUpdate { get; set; }
         public Category() //requis par dapper 
         {
         
