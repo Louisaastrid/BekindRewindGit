@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeKindRewind", "BeKindRewind\BeKindRewind.csproj", "{C8066535-949A-4999-A8F3-CA0D7EB2571F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeKindRewind", "BeKindRewind\BeKindRewind.csproj", "{C8066535-949A-4999-A8F3-CA0D7EB2571F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeKindRewindConsole", "BeKindRewindConsole\BeKindRewindConsole.csproj", "{CD28F1F3-5014-41F9-8D9F-BD3A24B5C981}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeKindRewindConsole", "BeKindRewindConsole\BeKindRewindConsole.csproj", "{CD28F1F3-5014-41F9-8D9F-BD3A24B5C981}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BekindRewindAPI", "BekindRewindAPI\BekindRewindAPI.csproj", "{34102646-1382-4C86-BB2D-FDFBB6524315}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{CD28F1F3-5014-41F9-8D9F-BD3A24B5C981}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD28F1F3-5014-41F9-8D9F-BD3A24B5C981}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD28F1F3-5014-41F9-8D9F-BD3A24B5C981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34102646-1382-4C86-BB2D-FDFBB6524315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34102646-1382-4C86-BB2D-FDFBB6524315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34102646-1382-4C86-BB2D-FDFBB6524315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34102646-1382-4C86-BB2D-FDFBB6524315}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
